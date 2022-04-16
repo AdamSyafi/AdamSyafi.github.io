@@ -14,7 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: grayscale;gi
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
