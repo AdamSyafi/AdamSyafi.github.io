@@ -6,6 +6,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
 <img src="./assets/as3_picture.jpg" class="object-contain h-48 w-96 rounded-lg" alt="">
+<p> Adam Syafi 19FTT1188</p>
 
 </template>
 
